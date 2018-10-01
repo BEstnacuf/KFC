@@ -9,6 +9,6 @@ public class KFCService {
 		
 		@WebMethod
 		public String WingZap() {
-			return "д°иб™и";
+			return "д°иб™иєй”";
 		}
 }
